@@ -1,7 +1,7 @@
 # ushell-module-vim
 Unix like shell module for vim.
 
-##init(./init_vim_config.sh):
+## init(./init_vim_config.sh):
 ```bash
   cd ~/github
   git clone git@github.com:afeiship/fei-vim.git
@@ -13,13 +13,17 @@ Unix like shell module for vim.
   vim && execute: `:BundleInstall`
 ```
 
+## install spf13-vim
+```bash
+curl https://j.mp/spf13-vim3 -L > spf13-vim.sh && sh spf13-vim.sh
+```
 
-##resource:
+## resource:
 https://github.com/VundleVim/Vundle.vim
 setup vundel:
   - `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
 + http://stackoverflow.com/questions/677986/vim-copy-selection-to-os-x-clipboard
 
-##issues:
+## issues:
 + mv ~/github/fei-vim/.vim/vimrc mv ~/github/fei-vim/.vim/.vimrc
