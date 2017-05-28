@@ -15,6 +15,10 @@ Unix like shell module for vim.
 
 ## install spf13-vim
 ```bash
+## update my vim
+brew intall vim
+
+## install:
 curl https://j.mp/spf13-vim3 -L > spf13-vim.sh && sh spf13-vim.sh
 ```
 
