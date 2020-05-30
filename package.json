@@ -1,6 +1,6 @@
 {
-  "name": "ushell-module-vim",
-  "version": "0.0.1",
+  "name": "@feizheng/ushell-module-vim",
+  "version": "1.0.0",
   "description": "Unix like shell module for vim.",
   "main": "index.sh",
   "repository": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-vim/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-vim#readme"
+  "homepage": "https://github.com/afeiship/ushell-module-vim#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
