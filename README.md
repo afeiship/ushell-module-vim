@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-vim
+npm i -S @jswork/ushell-module-vim
 ```
 
 ## init(./init_vim_config.sh):

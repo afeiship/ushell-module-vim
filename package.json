@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-vim",
+  "name": "@jswork/ushell-module-vim",
   "version": "1.0.0",
   "description": "Unix like shell module for vim.",
   "main": "index.sh",
@@ -8,11 +8,11 @@
     "url": "git+https://github.com/afeiship/ushell-module-vim.git"
   },
   "keywords": [
-    "ushell",
+    "vim",
     "unix",
-    "shell",
-    "system",
-    "infomation"
+    "command",
+    "cli",
+    "alias"
   ],
   "author": "afei",
   "license": "MIT",
